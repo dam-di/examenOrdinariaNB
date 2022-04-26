@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user email="rafa@gmail.com" name="rafa" pass="1234" role="admin"/>
+    <user email="francisca@gmail.com" name="francisca" pass="0000" role="user"/>
+</users>
+
